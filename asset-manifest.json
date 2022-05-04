@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nnhiep582k2/Practice_web.git/static/css/main.33621699.css",
-    "main.js": "/nnhiep582k2/Practice_web.git/static/js/main.b561234b.js",
-    "static/media/img-2.jpg": "/nnhiep582k2/Practice_web.git/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/img-1.jpg": "/nnhiep582k2/Practice_web.git/static/media/img-1.53f4843759ebec256cb9.jpg",
-    "static/media/img-8.jpg": "/nnhiep582k2/Practice_web.git/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "index.html": "/nnhiep582k2/Practice_web.git/index.html",
-    "main.33621699.css.map": "/nnhiep582k2/Practice_web.git/static/css/main.33621699.css.map",
-    "main.b561234b.js.map": "/nnhiep582k2/Practice_web.git/static/js/main.b561234b.js.map"
+    "main.css": "/Practice_web/static/css/main.9600ca51.css",
+    "main.js": "/Practice_web/static/js/main.b561234b.js",
+    "static/media/img-2.jpg": "/Practice_web/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/Practice_web/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/Practice_web/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/Practice_web/index.html",
+    "main.9600ca51.css.map": "/Practice_web/static/css/main.9600ca51.css.map",
+    "main.b561234b.js.map": "/Practice_web/static/js/main.b561234b.js.map"
   },
   "entrypoints": [
-    "static/css/main.33621699.css",
+    "static/css/main.9600ca51.css",
     "static/js/main.b561234b.js"
   ]
 }
