@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+}
+  
+.home,
+.services,
+.products,
+.sign-up {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+
+.services,
+.products,  
+.sign-up {
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 90px;
+}
+  
+.services {
+    background-image: url('./assets/images/img-2.jpg');
+    background-size: cover;
+}
+  
+.products {
+    background-image: url('./assets/images/img-1.jpg');
+    background-size: fill;
+}
+  
+.sign-up {
+    background-image: url('./assets/images/img-8.jpg');
+    background-size: cover;
+}
